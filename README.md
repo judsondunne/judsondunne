@@ -7,7 +7,6 @@ Web Developer
 I have been learning to code for years and am currently studying computer science at Lafayette College.
 
 * 🌍  I'm based in Easton Pennsylvania
-* 🖥️  See my portfolio at [Judson Dunne](http://judsondunne.com)
 * ✉️  You can contact me at [judson.dunne@gmail.com](mailto:judson.dunne@gmail.com)
 * 🧠  I'm learning Firebase Authentication
 * 🤝  I'm open to collaborating on AI related projects
@@ -21,6 +20,7 @@ I have been learning to code for years and am currently studying computer scienc
 
 
 ### Socials
+ 🖥️  See my portfolio at [Judson Dunne](http://judsondunne.com)
 
 <p align="left"> <a href="https://www.github.com/judsondunne" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
