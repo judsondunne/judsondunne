@@ -1,31 +1,85 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Judson Dunne
-====================================================================================================================================
-
-Web Developer
--------------
-
-I have been learning to code for years and am currently studying computer science at Lafayette College.
-
-* 🌍  I'm based in Easton Pennsylvania
-* ✉️  You can contact me at [judson.dunne@gmail.com](mailto:judson.dunne@gmail.com)
-* 🧠  I'm learning Firebase Authentication
-* 🤝  I'm open to collaborating on AI related projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<h1 align="center">Hi, I'm Judson Dunne 👋</h1>
+<p align="center">
+  Web & Mobile Developer · Founder of <a href="https://locava.app" target="_blank">Locava</a> · Lafayette ’27
 </p>
 
+<p align="center">
+  <a href="mailto:judson.dunne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-judson.dunne%40gmail.com-informational?style=for-the-badge"></a>
+  <a href="https://judsondunne.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-judsondunne.com-0A0A0A?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/judson-dunne-0bab8b273/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Judson%20Dunne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/judsondunne" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@judsondunne-111?style=for-the-badge&logo=github"></a>
+</p>
 
-### Socials
- 🖥️  See my portfolio at [Judson Dunne](http://judsondunne.com)
+---
 
-<p align="left"> <a href="https://www.github.com/judsondunne" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### About me
 
-### Badges
+- 📍 Based in **Easton, Pennsylvania**
+- 🧠 Currently learning **Firebase Authentication** & production hardening for mobile backends
+- 🤝 Open to collaborating on **AI** and **maps/geo** projects
+- 💬 Ask me about **React Native (Expo)**, **Firebase/Firestore**, **Next.js**, **map UX**, and **performance on mobile**
 
-<b>My GitHub Stats</b>
+---
 
-<a href="https://github.com/judsondunne" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judsondunne&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🚀 Featured Project — Locava
+Discover and share incredible real-world spots—swimming holes, rooftop views, bookstores, trails, and more.  
+- 📱 iOS + Web (React Native + Expo, Firebase, custom Node/Express services)  
+- 🗺️ Map-centric UX with clustering, activity filters, and in-house DMs/notifications  
+- 🧭 Target audience: 16–24 who want quick weekend adventure ideas  
+- 🔗 Explore: <a href="https://locava.app/explore" target="_blank">locava.app/explore</a> · About: <a href="https://locava.app/about" target="_blank">locava.app/about</a>
+
+> I’m building Locava to make “what should we do today?” a one-tap question.
+  
+---
+
+## 🧰 Tech I use
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" />
+</p>
+
+---
+
+## 🗂️ Selected work
+
+- **Locava (iOS + Web)** — Adventure discovery platform with geolocated posts, clusters, and activity filters.  
+  <sup>React Native · Expo · Firebase · Node/Express · Map UX</sup>
+
+- **Inline iOS PHVideo module** — Native iOS inline playback module for PH assets to match Instagram-style press-and-play UX.  
+  <sup>Swift · React Native bridge</sup>
+
+- **Fast Scroll Indicator** — Ultra-snappy scroll UX for large media libraries.  
+  <sup>React Native · Animated/Vision</sup>
+
+> DM me if you want write-ups or code snippets—some repos are private while I prep them for open source.
+
+---
+
+## 📊 By the numbers
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=judsondunne&show_icons=true&hide_title=true&hide_rank=true&hide=prs&include_all_commits=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judsondunne&langs_count=8&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 💬 Get in touch
+- Email: **judson.dunne@gmail.com**  
+- Portfolio: **https://judsondunne.com**  
+- LinkedIn: **/in/judson-dunne-0bab8b273/**
+
+If you’re building AI or geo-first experiences and want to collaborate, I’m in. 🚀
