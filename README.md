@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:judson.dunne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-judson.dunne%40gmail.com-informational?style=for-the-badge"></a>
-  <a href="https://judsondunne.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-judsondunne.com-0A0A0A?style=for-the-badge"></a>
+ 
   <a href="https://www.linkedin.com/in/judson-dunne-0bab8b273/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Judson%20Dunne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/judsondunne" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@judsondunne-111?style=for-the-badge&logo=github"></a>
 </p>
@@ -27,8 +27,6 @@ Discover and share incredible real-world spots—swimming holes, rooftop views, 
 - 🗺️ Map-centric UX with clustering, activity filters, and in-house DMs/notifications  
 - 🧭 Target audience: 16–24 who want quick weekend adventure ideas  
 - 🔗 Explore: <a href="https://locava.app/explore" target="_blank">locava.app/explore</a> · About: <a href="https://locava.app/about" target="_blank">locava.app/about</a>
-
-> I’m building Locava to make “what should we do today?” a one-tap question.
   
 ---
 
